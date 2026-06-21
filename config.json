@@ -1,10 +1,10 @@
 {
   "telegram": {
-    "enabled": true,
+    "enabled": false,
     "link": "ifjiw"
   },
   "website": {
-    "enabled": true,
+    "enabled": false,
     "link": "ifjg("
   },
   "showRemainingTime": true,
