@@ -1,0 +1,13 @@
+{
+  "telegram": {
+    "enabled": true,
+    "link": "ifjiw"
+  },
+  "website": {
+    "enabled": true,
+    "link": "ifjg("
+  },
+  "showRemainingTime": true,
+  "expireDate": "2026-12-31T23:59:59Z",
+  "expireRedirectLink": "ifjg("
+}
